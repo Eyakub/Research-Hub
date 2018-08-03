@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cardScienceLL"
+    android:layout_width="wrap_content"
+    android:layout_height="220dp"
+    android:orientation="horizontal"
+    >
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/cvScience"
+        android:layout_width="150dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:elevation="3dp"
+        android:layout_marginRight="@dimen/_8sdp"
+        android:orientation="horizontal"
+        app:cardCornerRadius="5dp"
+        app:cardUseCompatPadding="true">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            >
+
+            <ImageView
+                android:id="@+id/scImageScience"
+                android:layout_width="match_parent"
+                android:layout_height="145dp"
+                android:scaleType="fitXY" />
+
+
+            <TextView
+                android:id="@+id/cvTitleScience"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/scImageScience"
+                android:gravity="center"
+                android:layout_alignParentBottom="true"
+                android:padding="4dp"
+                android:text="How to Research"
+                android:textColor="@android:color/black"
+                android:textSize="16dp" />
+
+
+        </RelativeLayout>
+
+    </android.support.v7.widget.CardView>
+
+</LinearLayout>

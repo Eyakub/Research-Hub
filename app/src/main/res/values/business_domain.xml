@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="business_intelligence">
+
+        <![CDATA[
+            <html>
+                <head></head>
+                <body style = "text-alignment:justify;">
+                    <h1><font color="black"><b>Business Intelligence:</font></b></h1>
+                    Business intelligence (BI) leverages software and services to transform data into actionable intelligence that informs an organization’s strategic and tactical business decisions. BI tools access and analyze data sets and present analytical findings in reports, summaries, dashboards, graphs, charts and maps to provide users with detailed intelligence about the state of the business.
+                    </br>
+                    Although business intelligence does not tell business users what to do or what will happen if they take a certain course, neither is BI only about generating reports. Rather, BI offers a way for people to examine data to understand trends and derive insights.
+                </body>
+            </html>
+        ]]>
+
+    </string>
+
+    <string name="business_analyst">
+        <![CDATA[
+            <html>
+                <head></head>
+                    <body style = "text-alignment:justify;">
+                        <h1><font color="black"><b>Business Analyst:</font></b></h1>
+                            <p>
+                                A business analyst (BA) is someone who analyzes an organization or business domain (real or hypothetical) and documents its business or processes or systems, assessing the business model or its integration with technology.
+                                </br>
+                                The role of a systems analyst can also be defined as a bridge between the business problems and the technology solutions. Here business problems can be anything about business systems, for example the model, process, or method. The technology solutions can be the use of technology architecture, tools, or software application. System analysts are required to analyze, transform and ultimately resolve the business problems with the help of technology.
+                            </p>
+                    </body>
+            </html>
+        ]]>
+    </string>
+
+    <string name="business_consultancy">
+        <![CDATA[
+            <html>
+                <head></head>
+                    <body style = "text-alignment:justify;">
+                        <h1><font color="black"><b>Business Consultancy:</font></b></h1>
+                            <p>
+                            Business consultants provide management consulting to help organizations improve performance and efficiency. These professionals analyze businesses and create solutions while also helping companies meet their goals. Business owners should consider hiring business consultants when they need help or perspective on their chosen path or need a catalyst for change in their companies.
+                            </br>
+                                A consultant is usually an expert or a professional in a specific field and has a wide knowledge of the subject matter. The role of consultant outside the medical sphere (where the term is used specifically for a grade of doctor) can fall under one of two general categories:
+                                <ul>
+                                    <li>	Internal consultant – someone who operates within an organization but is available to be consulted on areas of specialism by other departments or individuals (acting as clients); or </li>
+                                    <li>	External consultant – someone who is employed externally (either by a firm or some other agency) whose expertise is provided on a temporary basis, usually for a fee. As such this type of consultant generally engages with multiple and changing clients.</li>
+                                </ul>
+                            </p>
+                    </body>
+            </html>
+        ]]>
+    </string>
+</resources>

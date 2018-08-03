@@ -1,0 +1,282 @@
+<resources>
+    <string name="app_name">Research Hub</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_study">Study</string>
+    <string name="title_profile">Profile</string>
+
+    <string name="howToResearch">How To Research</string>
+    <string name="selectingDomain">Selecting Domain</string>
+    <string name="researchCareer">Research As Career</string>
+
+    <string name="create_one">Don\'t have an account? <b>Create One</b></string>
+    <string name="science_title"><h3><b>Science Domain</b></h3></string>
+    <string name="bba_title"><h3><b>Business Administration Domain</b></h3></string>
+
+    <string name="how_to_research">
+        <![CDATA[
+        <html>
+                <body style = "text-align:justify;">
+                    <h1><font color="black"><b>Allow enough time</b></font></h1>
+                     <p>
+                            First and foremost, it’s vital to allow enough time for your research.
+                        If you start writing without having done adequate research, it will almost certainly show in your essay’s lack of quality.
+                        You may come across a concept that takes you longer to understand than you’d expected,
+                        so it’s better to allow too much time than too little.
+                     </p>
+                     <br/>
+
+                    <h1><font color="black"><b>Begin with a brainstorm</font></b></h1>
+                    <p>
+                        Start your research time by brainstorming what you already know.
+                        Doing this means that you can be clear about exactly what you’re already aware of, and you
+                        can identify the gaps in your knowledge so that you don’t end up wasting time by reading
+                        books that will tell you what you already know. This gives your research more of a direction
+                        and allows you to be more specific in your efforts to find out certain things.
+                        It’s also a gentle way of introducing yourself to the task and putting yourself in the right
+                        frame of mind for learning about the topic at hand.
+                    </p>
+
+<br/>
+                    <h1><font color="black"><b>Achieve a basic understanding before digging deeper</font></b></h1>
+                    <p>
+                        If the topic is new to you and your brainstorm has yielded few ideas, you’ll need to acquire
+                        a basic understanding of the topic before you begin delving deeper into your research.
+                        You need sufficient background knowledge to be able to take a critical approach to each of the sources you read.
+                    </p>
+<br/>
+                    <h1><font color="black"><b>Prepare a project timeline</font></b></h1>
+                    <p>
+                        Having a project timeline is everything. It keeps you on track all the time.
+                        You should have a timeline set out in the first week, stating targets that you must achieve
+                        throughout the duration of your research project. Things could go wrong here and there, and
+                        you can always adjust dates, but it is very important to have a schedule, ideally broken down further into weekly targets.
+                    </p>
+<br/>
+                    <h1><font color="black"><b>Find the right supervisor</font></b></h1>
+                    <p>
+                        To get proper guideline you must find a supervisor of your research domain.
+                        Along with getting direction you can speed up your work. In case of any kind of doubt and
+                        curiosity you must ask your supervisor. Ask your supervisor about what kind of targets you
+                        should set and try to achieve these on a weekly basis. Doing this should help you avoid becoming overwhelmed.
+                    </p>
+<br/>
+                    <h1><font color="black"><b>Research every side of the argument</font></b></h1>
+                    <p>
+                        Never rely too heavily on one resource without referring to other possible opinions;
+                        it’s bad academic practice. You need to be able to give a balanced argument in an essay,
+                        and that means researching a range of perspectives on whatever problem you’re tackling.
+                        Keep a note of the different arguments, along with the evidence in support of or against
+                        each one, ready to be deployed into an essay structure that works logically through each one.
+                    </p>
+<br/>
+                    <h1><font color="black"><b>Start formulating your own opinion</font></b></h1>
+                    <p>
+                        As you work through reading these different points of view, think carefully about what you’ve read and note your own response to different opinions. Get into the habit of questioning sources and make sure you’re not just repeating someone else’s opinion without challenging it.
+                    </p>
+<br/>
+                    <h1><font color="black"><b>Wright your first draft</font></b></h1>
+                    <p>
+                        Start with the first topic in your outline. Read all the relevant notes you have gathered that have been marked, e.g. with the capital Roman numeral I.
+                        Summarize, paraphrase or quote directly for each idea you plan to use in your essay. Use a technique that suits you, e.g. write summaries, paraphrases or quotations on note cards, or separate sheets of lined paper.
+                    </p>
+<br/>
+                    <h1><font color="black"><b>Revise your outline and draft</font></b></h1>
+                    <p>
+                        Read your paper for any content errors. Double check the facts and figures. Arrange and rearrange ideas to follow your outline. Reorganize your outline if necessary, but always keep the purpose of your paper and your readers in mind. Use a free grammar and proof reading checker such as Grammarly.
+                    </p>
+<br/>
+                    <h1><font color="black"><b>Type final paper</font></b></h1>
+                    <p>
+                        All formal reports or essays should be typewritten and printed, preferably on a good quality printer. Read the assignment sheet again to be sure that you understand fully what is expected of you, and that your essay meets the requirements as specified by your teacher. Know how your essay will be evaluated.
+                        Proofread final paper carefully for spelling, punctuation, missing or duplicated words. Make the effort to ensure that your final paper is clean, tidy, neat, and attractive.
+                    </p>
+
+            </body>
+
+        </html>
+        ]]>
+    </string>
+
+    <string name="research_as_career">
+        <![CDATA[
+            <html>
+                <head></head>
+                <body style = "text-align:justify;">
+                     <h1><font color="black"><b>Today\'s job market offers researchers a huge diversity of career opportunities in various roles and sectors.</font></b></h1>
+                        <p>
+                            It can be hard to know where to start and what opportunities are available, especially if you haven\'t worked in other employment sectors. Unlike undergraduates, doctoral candidates are not generally targeted by big employers with recruitment campaigns and not all careers services can offer specialist advice to researchers. Perhaps you are unsure whether you\'d like to stay in the higher education sector or move away; whether to continue working in research or use your skills in another field. It\'s likely that most of your colleagues\' work experience is limited to academic settings.
+                        </p>
+                    <h1><font color="black"><b>To fully explore your career options you will need to investigate:</font></b></h1>
+                        <p>
+                            Don\'t forget that there are additional career opportunities available to you outside employment. For example, self-employment, working freelance, starting your own business or embarking on further study are ways you can generate your own opportunities. Hear tips from enterprising researchers in the recording from our online hangout How to start a business after your PhD.
+                        </p>
+                    <h1><font color="black"><b>More on careers for researchers in higher education:</font></b></h1>
+                        <p>
+                            Higher education offers a range of employment opportunities, not just academic research. This includes teaching and lecturing, administration, support roles such as training and development, human resources, public engagement and careers professionals, and work in research-related services or projects such as policy, funding, grant administration, research management and knowledge transfer.
+                        </p>
+                    <h1><font color="black"><b>More on careers for researchers outside higher education:</font></b></h1>
+                        <p>
+                            These range from research and teaching to business and management. From research positions in commercial companies, public bodies or non-profit organizations to research-related positions such as research policy and administration. Also, roles not directly related to research, but where the knowledge and skills of researchers are advantageous, such as consultancy, publishing, patent law.
+                            Your institution’s careers service may be able to give you tailored information and guidance on your options and local opportunities.
+                        </p>
+                </body>
+
+            </html>
+        ]]>
+
+    </string>
+
+    <string name="selecting_domain">
+        <![CDATA[
+            <html>
+                <head></head>
+                <body style = "text-align:justify;">
+                    <h1><font color="black"><b>Research areas in Data Mining:</font></b></h1>
+                    <p>
+                      <ul start ="30">
+                        <li> Mining Frequent Patterns, Associations, and Correlations</li>
+                        <li> Association Rules and Sequential Patterns</li>
+                        <li> Data Warehouse and OLAP</li>
+                        <li> Classification and Clustering</li>
+                        <li> Mining Sequence Patterns in Transactional Databases</li>
+                        <li> Mining Data Streams</li>
+                        <li> Mining Time-Series Data</li>
+                        <li> Graph Mining</li>
+                        <li> Social Network Analysis</li>
+                        <li> Multi-relational Data Mining</li>
+                        <li> Spatial Data Mining</li>
+                        <li> Multimedia Data Mining</li>
+                        <li> Text Mining</li>
+                        <li> Mining the World Wide Web</li>
+                      </ul>
+                    </p>
+
+                    <h1><font color="black"><b>Research areas in  Artificial Intelligence:</font></b></h1>
+                        <ul>
+                        <li> Computer Programming</li>
+                        <li> Robotics</li>
+                        <li> Self-driving cars</li>
+                        <li> Smart Reply</li>
+                        <li> Finance</li>
+                        <li> Medical field</li>
+                        <li> Entertainment</li>
+                        <li> Games</li>
+                        <li> Music</li>
+                        <li> Aviation</li>
+                        <li> Expert Systems</li>
+                        <li> Natural Language Processing</li>
+                        <li> Nural Networks</li>
+                        <li> Fuzzy Logic System</li>
+                        </ul>
+                    <h1><font color="black"><b>Research areas in Data Science &amp; Engineering:</font></b></h1>
+
+                        <li>	Knowledge Discovery &amp; Data Mining.</li>
+                        <li>	Machine Learning &amp; Deep Learning.</li>
+                        <li>	Visual Computing &amp; Multimedia Analytics.</li>
+                        <li>	Spatial &amp; Context-Aware Data Management.</li>
+                        <li>	Recommended Systems &amp; Preference Analytics.</li>
+                        <li>	Natural Language Processing &amp; Text Mining.</li>
+                        <li>	Crowd sourcing &amp; Human Computation.</li>
+
+                    <h1><font color="black"><b>Research areas in Machine Learning:</font></b></h1>
+                        <li>	Detecting Fraud and anomalous user behavior</li>
+                        <li>	Model Selection</li>
+                        <li>	Node Based Learning of Graphical Models</li>
+                        <li>	Semi-structured learning using Markov Networks</li>
+                        <li>	Link Prediction</li>
+                        <li>	Robust PCA and lower dimensional projection methods</li>
+                        <li>	Gesture Detection</li>
+                        <li>	Human Movement</li>
+                        <li>	Clustering Approaches</li>
+                        <li>	Manifold Learning</li>
+                        <li>	Adaptive Partitioning</li>
+                        <li>	Fuzzy Memories</li>
+                        <li>	Sparsity Research</li>
+
+                    <h1><font color="black"><b>Research areas in Internet of Things:</font></b></h1>
+                        <li>	IoT Business Models</li>
+                        <li>	IoT for road accidents</li>
+                        <li>	IoT for Retail Industry</li>
+                        <li>	IoT for Food Clothing Shelter</li>
+                        <li>	Hardware</li>
+                        <li>	Software</li>
+                        <li>	Security</li>
+                        <li>	Connectivity</li>
+
+                    <h1><font color="black"><b>Research areas in Computer Vision &amp; Image Processing:</font></b></h1>
+                        <li>	Biomedical Imaging</li>
+                        <li>	Computer Vision</li>
+                        <li>	Image Segmentation/Classification</li>
+                        <li>	Multiresolution Techniques</li>
+                        <li>	Remote Sensing</li>
+                        <li>	Scientific Imaging</li>
+                        <li>	Stochastic Models</li>
+                        <li>	Video Analysis</li>
+                        <li>	Evolutionary Deep Intelligence</li>
+                        <li>	Discovery Radiomics</li>
+
+                        <br>
+                        <br>
+
+
+                    <h1 style="color:blue;text-align:center;"><b>BBA</font></b></h1>
+                    <h1><font color="black"><b>Research areas in Marketing:</font></b></h1>
+                        <li>	Advertising Effects</li>
+                        <li>	Branding</li>
+                        <li>	Business To Business (Inter-Organization)</li>
+                        <li>	Consumer Psychology</li>
+                        <li>	E-Commerce</li>
+                        <li>	International Issues</li>
+                        <li>	Promotions</li>
+                        <li>	Sales Force Issues</li>
+                        <li>	Public Policy And Social Marketing</li>
+                        <li>	Services Marketing</li>
+                        <li>	Sociology Of Consumption</li>
+                        <li>	Technology And Innovation</li>
+                        <li>	Strategy</li>
+                    <h1><font color="black"><b>Research areas in Finance, Accounts and Taxation:</font></b></h1>
+                        <li>	 Comparing cash policies of Public and Private Firms</li>
+                        <li>	 Local Body Tax- achievement or failure for Maharashtra Government</li>
+                        <li>	 VAT over Sales tax (comparative analysis)</li>
+                        <li>	 Does Strict Capital Requirement Raise the Cost of Capital?</li>
+                        <li>	 Corporate Social Responsibility and Access to Finance</li>
+                        <li>	 Rethinking Retirement Planning</li>
+                        <li>	 New challenges for Long-Term investors</li>
+                        <li>	 Investment in Mutual Fund (cost and benefit analysis)</li>
+                        <li>	 Let the Buyer Beware’ Doesn’t Protect Investor</li>
+                        <li>	Role of Micro-finance institution in Funding Small and Medium Enterprise</li>
+
+                    <h1><font color="black"><b>Research areas in Human Resource Management:</font></b></h1>
+                        <li>	Performance Management &amp; Measurement in HR</li>
+                        <li>	Talent Acquisition</li>
+                        <li>	Absence Management</li>
+                        <li>	Managing Information and Change in HR</li>
+                        <li>	Balancing Cost and Service Quality</li>
+                        <li>	Business Intelligence</li>
+                        <li>	HR Self Service</li>
+
+                </body>
+
+            </html>
+        ]]>
+    </string>
+
+
+
+    <string name="title_activity_image_sliding">ImageSlidingActivity</string>
+    <string name="title_activity_science_details">ScienceDetailsActivity</string>
+
+    <string name="any_question">Have any question? Email us!</string>
+    <string name="already_account">Already have an account? <b>Login here</b></string>
+    <string name="forget_pass">Forget your password? <b>Click Here</b></string>
+    <string name="login_in">Log In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="confirm_pass">Confirm Password</string>
+    <string name="regPassword">Password</string>
+    <string name="reg_email">Email</string>
+    <string name="log_out">Log Out</string>
+    <string name="default_email">eyakubsorkar@gmail.com</string>
+    <string name="app_version">Research Hub 1.0</string>
+    <string name="home_hints">Home</string>
+</resources>

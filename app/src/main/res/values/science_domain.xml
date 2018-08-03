@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="big_data">
+        <![CDATA[
+            <html>
+                <head></head>
+                <body style = "text-alignment:justify;">
+                    <h1><font color="black"><b>Big Data::</font></b></h1>
+                    <p>
+                        Big data is a term that describes the large volume of data – both structured and unstructured – that inundates a business on a day-to-day basis. But it’s not the amount of data that’s important. It’s what organizations do with the data that matters. Big data can be analyzed for insights that lead to better decisions and strategic business moves.
+                        Industry analyst Doug Laney articulated the now-mainstream definition of big data as the 3 Vs:
+                        </br>
+                        <b>Volume:</b> Organizations collect data from a variety of sources, including business transactions, social media and information from sensor or machine-to-machine data. In the past, storing it would’ve been a problem – but new technologies (such as Hadoop) have eased the burden.
+                        </br>
+                        <b>Velocity:</b> Data streams in at an unprecedented speed and must be dealt with in a timely manner. RFID tags, sensors and smart metering are driving the need to deal with torrents of data in near-real time.
+                        </br>
+                        <b>Variety:</br> Data comes in all types of formats – from structured, numeric data in traditional databases to unstructured text documents, email, video, audio, stock ticker data and financial transactions.
+                    </p>
+	            </body>
+            </html>
+        ]]>
+               </string>
+
+    <string name="machine_learning">
+        <![CDATA[
+            <html>
+                <head></head>
+                <body style = "text-alignment:justify;">
+                    <h1><font color="black"><b>Machine Learning:</font></b></h1>
+                    <p>
+                    Machine learning is a field of computer science that gives computers the ability to learn without being explicitly programmed. More specifically it’s an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. Machine learning focuses on the development of computer programs that can access data and use it learn for themselves.
+                    </br>
+                    While the concept of machine learning has been around for a long time, (an early and notable example: Alan Turing’s famous WWII Enigma Machine) the ability to apply complex mathematical calculations to big data automatically—iteratively and quickly—has been gaining momentum over the last several years.
+                    </br>
+                    So, put simply, the iterative aspect of machine learning is the ability to adapt to new data independently. This is possible as programs learn from previous computations and use “pattern recognition” to produce reliable results.
+                    </p>
+                </body>
+            </html>
+        ]]>
+
+
+    </string>
+
+    <string name="artificial_intelligence">
+         <![CDATA[
+            <html>
+                <head></head>
+                <body style = "text-alignment:justify;">
+                    <h1><font color="black"><b>Artificial Intelligence:</font></b></h1>
+                    <p>
+                         Artificial Intelligence is a way of making a computer, a computer-controlled robot, or a software think intelligently, in the similar manner the intelligent humans think.
+                         </br>
+                         AI is accomplished by studying how human brain thinks, and how humans learn, decide, and work while trying to solve a problem, and then using the outcomes of this study as a basis of developing intelligent software and systems.
+                    </p>
+                </body>
+            </html>
+        ]]>
+    </string>
+
+    <string name="data_mining">
+        <![CDATA[
+            <html>
+                <head></head>
+                <body style = "text-alignment:justify;">
+                    <h1><font color="black"><b>Data Mining:</font></b></h1>
+                    <p>
+                    Data Mining is an analytic process designed to explore data (usually large amounts of data - typically business or market related - also known as "big data") in search of consistent patterns and/or systematic relationships between variables, and then to validate the findings by applying the detected patterns to new subsets of data. The ultimate goal of data mining is prediction - and predictive data mining is the most common type of data mining and one that has the most direct business applications.
+                    The process of data mining consists of three stages:
+                    </br>
+                    (1) the initial exploration
+                    (2) model building or pattern identification with validation/verification
+                    (3) deployment (i.e., the application of the model to new data in order to generate predictions).
+                    </br>
+                    Crucial Concepts in Data Mining
+                    </br>
+                    <b>Bagging (Voting, Averaging):</b>
+                    The concept of bagging (voting for classification, averaging for regression-type problems with continuous dependent variables of interest) applies to the area of predictive data mining, to combine the predicted classifications (prediction) from multiple models, or from the same type of model for different learning data. It is also used to address the inherent instability of results when applying complex models to relatively small data sets. Suppose your data mining task is to build a model for predictive classification, and the dataset from which to train the model (learning data set, which contains observed classifications) is relatively small. You could repeatedly sub-sample (with replacement) from the dataset, and apply, for example, a tree classifier (e.g., C &amp; RT and CHAID) to the successive samples. In practice, very different trees will often be grown for the different samples, illustrating the instability of models often evident with small data setsA sophisticated (machine learning) algorithm for generating weights for weighted prediction or voting is the Boosting procedure.
+                    </br>
+                    <b>Boosting:</b>
+                    The concept of boosting applies to the area of predictive data mining, to generate multiple models or classifiers (for prediction or classification), and to derive weights to combine the predictions from those models into a single prediction or predicted classification (see also Bagging).
+                    A simple algorithm for boosting works like this: Start by applying some method (e.g., a tree classifier such as C &amp; RT or (CHAID) to the learning data, where each observation is assigned an equal weight. Compute the predicted classifications, and apply weights to the observations in the learning sample that are inversely proportional to the accuracy of the classification. In other words, assign greater weight to those observations that were difficult to classify (where the misclassification rate was high), and lower weights to those that were easy to classify (where the misclassification rate was low).
+
+                    </p>
+                </body>
+            </html>
+        ]]>
+
+
+    </string>
+
+    <string name="internet_of_things">
+        <![CDATA[
+            <html>
+                <head></head>
+                <body style = "text-alignment:justify;">
+                    <h1><font color="black"><b>Internet Of Things(IoT):</font></b></h1>
+                    <p>
+                     The Internet of Things (IoT) is a system of interrelated computing devices, mechanical and digital machines, objects, animals or people that are provided with unique identifiers and the ability to transfer data over a network without requiring human-to-human or human-to-computer interaction. A thing, in the Internet of Things, can be a person with a heart monitor implant, a farm animal with a biochip transponder, an automobile that has built-in sensors to alert the driver when tire pressure is low — or any other natural or man-made object that can be assigned an IP address and provided with the ability to transfer data over a network.
+                     IoT has evolved from the convergence of wireless technologies, micro-electromechanical systems (MEMS), micro services and the internet. The convergence has helped tear down the silo walls between operational technology (OT) and information technology (IT), allowing unstructured machine-generated data to be analyzed for insights that will drive improvements.
+                    </p>
+                </body>
+            </html>
+        ]]>
+    </string>
+
+    <string name="data_science">
+        <![CDATA[
+            <html>
+                <head></head>
+                <body style = "text-alignment:justify;">
+                    <h1><font color="black"><b>Data Science:</font></b></h1>
+                    <p>
+                        Data science, also known as data-driven science, is an interdisciplinary field about scientific methods, processes, and systems to extract knowledge or insights from data in various forms, either structured or unstructured, similar to data mining.
+                        The aspect of data science is all about uncovering findings from data. Diving in at a granular level to mine and understand complex behaviors, trends, and inferences. It\'s about surfacing hidden insight that can help enable companies to make smarter business decisions. For example:
+                        <ul>
+                            <li>	Netflix data mines movie viewing patterns to understand what drives user interest, and uses that to make decisions on which Netflix original series to produce.</li>
+                            <li>	Target identifies what are major customer segments within it\'s base and the unique shopping behaviors within those segments, which helps to guide messaging to different market audiences.</li>
+                            <li>	Proctor &amp; Gamble utilizes time series models to more clearly understand future demand, which help plan for production levels more optimally.</li>
+                        </ul>
+                        </br>
+                        How do data scientists mine out insights? It starts with data exploration. When given a challenging question, data scientists become detectives. They investigate leads and try to understand pattern or characteristics within the data. This requires a big dose of analytical creativity.
+                        </br>
+                        Then as needed, data scientists may apply quantitative technique in order to get a level deeper – e.g. inferential models, segmentation analysis, time series forecasting, synthetic control experiments, etc. The intent is to scientifically piece together a forensic view of what the data is really saying.
+                        </br>
+                        This data-driven insight is central to providing strategic guidance. In this sense, data scientists act as consultants, guiding business stakeholders on how to act on findings.
+                    </p>
+                </body>
+            </html>
+        ]]>
+
+    </string>
+
+    <string name="image_processing">
+        <![CDATA[
+            <html>
+                <head></head>
+                <body style = "text-alignment:justify;">
+                    <h1><font color="black"><b>Image Processing:</font></b></h1>
+                    <p>
+                        </br>
+                        Image processing is a method to convert an image into digital form and perform some operations on it, in order to get an enhanced image or to extract some useful information from it. It is a type of signal dispensation in which input is image, like video frame or photograph and output may be image or characteristics associated with that image. Usually Image Processing system includes treating images as two dimensional signals while applying already set signal processing methods to them.
+                        It is among rapidly growing technologies today, with its applications in various aspects of a business. Image Processing forms core research area within engineering and computer science disciplines too.
+                        </br>
+                        Image processing basically includes the following three steps.
+                        <ul>
+                            <li>            Importing the image with optical scanner or by digital photography.</li>
+                            <li>            Analyzing and manipulating the image which includes data compression and image enhancement and spotting patterns that are not to human eyes like satellite photographs.</li>
+                            <li>            Output is the last stage in which result can be altered image or report that is based on image analysis.</li>
+                        </ul>
+                        </br>
+                        <b>Purpose of Image processing:</b>
+
+                            &nbsp;&nbsp;&nbsp;&nbsp;The purpose of image processing is divided into 5 groups. They are:</br>
+                            <ul>
+                                <li>1.      Visualization - Observe the objects that are not visible.</li>
+                                <li>2.      Image sharpening and restoration - To create a better image.</li>
+                                <li>3.      Image retrieval - Seek for the image of interest.</li>
+                                <li>4.      Measurement of pattern – Measures various objects in an image.</li>
+                                <li>5.      Image Recognition – Distinguish the objects in an image.</li>
+                            </ul>
+                        </br>
+                        <b>Types:</b>
+                        &nbsp;&nbsp;&nbsp;&nbsp;
+                            <ul>
+                                <li>    The two types of methods used for Image Processing are Analog and Digital Image Processing. Analog or visual techniques of image processing can be used for the hard copies like printouts and photographs. Image analysts use various fundamentals of interpretation while using these visual techniques. The image processing is not just confined to area that has to be studied but on knowledge of analyst. Association is another important tool in image processing through visual techniques. So analysts apply a combination of personal knowledge and collateral data to image processing.</li>
+
+                                <li>    Digital Processing techniques help in manipulation of the digital images by using computers. As raw data from imaging sensors from satellite platform contains deficiencies. To get over such flaws and to get originality of information, it has to undergo various phases of processing. The three general phases that all types of data have to undergo while using digital technique are Pre- processing, enhancement and display, information extraction.</li>
+                            </ul>
+                    </p>
+
+                </body>
+            </html>
+        ]]>
+
+
+    </string>
+</resources>

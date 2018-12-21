@@ -12,16 +12,16 @@ import android.os.Handler;
 public class SplashScreen extends Activity {
     protected boolean _active = true;
     protected int _splashTime = 500;
-    private PrefManager prefManager;
+    //private PrefManager prefManager;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash);
 
-    new Handler().postDelayed(new Runnable()){
+    /*new Handler().postDelayed(new Runnable()){
         
-    }
+    }*/
         Thread splashTread = new Thread() {
             @Override
             public void run() {
